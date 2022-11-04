@@ -25,3 +25,5 @@ main()
     console.error(error);
     process.exit(1);
   });
+
+//Deployed contract address="0x7687FD63380506a9cF2Ae0e28595769DEE16E242"
