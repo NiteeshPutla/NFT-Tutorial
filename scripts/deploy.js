@@ -4,7 +4,7 @@ const { ethers } = require("hardhat");
 async function main() {
   /*
 A ContractFactory in ethers.js is an abstraction used to deploy new smart contracts,
-so nftContract here is a factory for instances of our GameItem contract.
+so nftContract here is a factory for instances of our Pokemon contract.
 */
   const nftContract = await ethers.getContractFactory("Pokemon");
 
