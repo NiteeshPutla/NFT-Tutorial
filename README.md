@@ -1,3 +1,6 @@
+# My Pokemon NFT created using QuickNode's RPC => [click here to see it on testnet](https://goerli.etherscan.io/address/0x7687FD63380506a9cF2Ae0e28595769DEE16E242).
+
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
